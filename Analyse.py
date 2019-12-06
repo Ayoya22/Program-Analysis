@@ -5,3 +5,4 @@ ins_num = int(input("How many instructions does your program has: "))
 init = 0
 while init < ins_num:
       print(f'Type the number {init} init: ')
+      init = init + 1
